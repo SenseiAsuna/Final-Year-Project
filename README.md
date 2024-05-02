@@ -1,4 +1,4 @@
 # Final-Year-Project
 Creating a game ready 3D model
-To download the zipped project.
-Click the greendrop down and select download ZIP
+1. To download the zipped project.
+2. Click the greendrop down and select download ZIP
